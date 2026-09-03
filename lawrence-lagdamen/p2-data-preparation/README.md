@@ -1,5 +1,32 @@
-# P2 — Data Preparation & Governance Package · due Sat 29 Aug
+# P2 Data Preparation — P7 Operations
 
-From the Kape Tayo files: a cleaned dataset (share as a Drive link in this README — never commit CSVs), a **data dictionary**, an automated **validation report** (type, range, uniqueness, completeness, referential checks), a **provenance and cleaning log** (every decision, with its reason), and a **lawful basis statement** for any personal data touched.
+**Student:** Lawrence M. Lagdamen
 
-**Submit:** notebook (must run top-to-bottom from a clean copy) + the documents above + AI Use Log entry.
+## Dataset
+
+This P2 builds a branch-month order count table using the Sales and Calendar data.
+
+## Grain
+
+One row represents one branch in one month.
+
+## Final Output
+
+* 6 branches
+* 18 months
+* 108 branch-month rows
+
+## Cleaned Data
+
+Google Drive link: https://drive.google.com/file/d/1MCYPxiM9IKRtLjThxvttJnuweghZz9TP/view?usp=sharing
+
+The cleaned CSV is stored in Google Drive and is not committed to the repository.
+
+## Contents
+
+* Colab notebook
+* Data dictionary
+* Validation findings
+* Cleaning log with reasons
+* Lawful basis statement
+
